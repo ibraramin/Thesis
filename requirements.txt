@@ -1,0 +1,5 @@
+pandas
+lm-eval
+torch
+transformers
+accelerate
